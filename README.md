@@ -1,4 +1,4 @@
-## [Preview]
+## Preview
 [Demo](https://hamzehazizzadeh.ir/react-sidebar/)
 
 ## React Pro Sidebar

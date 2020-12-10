@@ -1,5 +1,5 @@
-## [Preview](https://react-sidebar.hamzehazizzadeh.ir)
-[Demo](https://react-sidebar.hamzehazizzadeh.ir)
+## [Preview]
+[Demo](https://hamzehazizzadeh.ir/react-sidebar/)
 
 ## React Pro Sidebar
 This package is a Persian and straightforward example of the [react-pro-sidebar](https://github.com/azouaoui-med/react-pro-sidebar) package.
